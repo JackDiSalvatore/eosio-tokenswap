@@ -1,0 +1,4 @@
+/Volumes/JackDiSalvatoreSSDT5/JacksFiles/EOSIO/eosio.contracts/build/tests/CMakeFiles/rebuild_cache.dir
+/Volumes/JackDiSalvatoreSSDT5/JacksFiles/EOSIO/eosio.contracts/build/tests/CMakeFiles/edit_cache.dir
+/Volumes/JackDiSalvatoreSSDT5/JacksFiles/EOSIO/eosio.contracts/build/tests/CMakeFiles/test.dir
+/Volumes/JackDiSalvatoreSSDT5/JacksFiles/EOSIO/eosio.contracts/build/tests/CMakeFiles/unit_test.dir
