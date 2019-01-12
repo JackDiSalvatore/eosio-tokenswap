@@ -1,3 +1,3 @@
 #!/bin/bash
-eosio-cpp --abigen chestnutbank.cpp -o chestnutbank.wasm
+eosio-cpp --abigen tokenswap.cpp -o tokenswap.wasm
 
