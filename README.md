@@ -1,6 +1,8 @@
 # eosio-tokenswap
 
 Allows users to deposit EOS in exchange for an EOS pegged token.  Users can withdraw for real EOS at anytime.
+Future updates could give this "derivative" token to additional properties and use cases that the original or
+"origin" token did not have.
 
 To run a full boot of the eosio system contracts (eosio.contractsv1.4.0),
  which will create the system token "EOS" and set the system contract all

@@ -1,20 +1,6 @@
-# Chestnut - Smart EOS accounts for automation and security.
+# eosio-tokenswap
 
-We offer a multi-signature, smart contract enabled "Smart Account" which helps you create a set of rules and safeguards so that your EOS account secures and automates your finances.
-
-One big obstacle to widespread adoption of crypto assets is the fear users have in taking responsibility for managing and protecting their own money. Chestnut takes some of the best security practices from the traditional banking system and bridges them over to the blockchain space, With this, users can feel the same level of safety they have become accustomed to with the autonomy and transparency that the blockchain offers.
-
-Chestnut utilizes a smart contract within a multi-sig account to enable users to set specific and customizable rules or restrictions on the activity, size or type of transactions that can be executed on the account.
-
-Similar to security and fraud protection offerings by traditional credit card companies, Chestnut users can set spending limits, whitelist/ blacklist recipients, freeze the account or nominate beneficiaries in case of emergencies. With Chestnut, users have the benefit of setting their own account rules rather than rules being imposed by a third party institution.
-
-Each account transaction will be cross referenced through our smart contract and if it does not fit the set parameters, Chestnut will not sign off on the transaction as a multi-sig.
-
-At no point does Chestnut require private information and we cannot make changes to a customer’s account unless the change was initiated by the customer.
-
-Our service will be a subscription based model, with freemium/ premium offerings. Any rule that would require a query to the blockchain over a period of time would be a premium offering.
-
-Chestnut will provide the peace of mind that so many blockchain curious members of the general public desire before taking the leap into the world of crypto assets.
+TODO:....
 
 # Prerequisites
 
